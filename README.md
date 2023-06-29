@@ -1,0 +1,1 @@
+# Weather-API to aplikacja, która pokazuje pogodę. Wyświetla ona jaki mam stan pogody w danym miejscu, jaką mamy temepraturę na zewnątrz oraz procent wilgotności powietrza. Zbiera ona informacje z pogodowego API.
